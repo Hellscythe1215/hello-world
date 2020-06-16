@@ -42,3 +42,5 @@ protected void onCreate(Bundle savedInstanceState) {
     setContentView(R.layout.activity_main);
 }
 ```
+
+![image](https://github.com/872822645/danxuankuangDemo/blob/master/1.jpg)
